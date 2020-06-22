@@ -1,0 +1,2 @@
+docker tag c_dev_container alexgreff/autograder_container:latest
+docker push alexgreff/autograder_container:latest

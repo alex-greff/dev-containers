@@ -1,0 +1,2 @@
+docker tag c_dev_container alexgreff/c_dev_container:latest
+docker push alexgreff/c_dev_container:latest
